@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*******************************************************************************
  * Variables used throughout the theme.
  * To adjust anything, simply edit the variables below and rebuild the theme.
@@ -312,6 +313,8 @@ blockquote {
   display: inline-block;
   margin: 0;
   padding-left: 15px;
+  font-size: 14px; /* 调整文字字体大小 */
+  letter-spacing: 1px; /* 调整字符间距 */
 }
 
 .profile.float-right {
