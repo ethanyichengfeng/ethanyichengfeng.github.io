@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   address: >
     <p>Room 115, Ho Sin-Hang Engineering Building,</p>
-    <p>The Chinese University of Hong Kong, Shatin Hong Kong SAR, China</p>
+    <p>The Chinese University of Hong Kong, Shatin Hong Kong SAR (999077), China</p>
 
 
 
