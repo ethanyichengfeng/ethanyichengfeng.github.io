@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ethanyichengfeng.github.io/sitemap.xml
