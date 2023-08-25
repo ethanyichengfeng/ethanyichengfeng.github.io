@@ -41,9 +41,9 @@ Hello there! I'm Yicheng Feng, you can just call me Ethan. I am currently a two-
 
 At present, I am working as a Research Assistant at The Chinese University of Hong Kong under the guidance of Prof. [Henry Xu](https://henryhxu.github.io/). I've embarked on research in the realm of video systems, which presents an entirely new and exciting challenge!
 
-My master's advisor is Prof. [Xiaofei Wang](http://www.drxiaofei.wang/), and if all goes well, I will be graduating in January next year :). During this journey, I had the privilege of interning with the IaaS team at China's edge cloud company [PPIO](https://www.ppio.cn/). This experience led to a series of fruitful industry-academic collaborative projects – truly exhilarating!
+My master's advisor is Prof. [Xiaofei Wang](http://www.drxiaofei.wang/), and if all goes well, I will be graduating in January next year :). During this journey, I had the privilege of interning with the IaaS team at [PPIO](https://www.ppio.cn/) Edge Clouds Co., Ltd., China. This experience led to a series of fruitful industry-academic collaborative projects – truly exhilarating!
 
-Before my time at TJU, I obtained my Bachelor's degree from Jiangnan University in 2021. Those were four vibrant and eventful years. I represented the school in provincial games, took on roles as a host, model, and voice actor. Together with my colleagues, I developed numerous Unity games and served as the President of the School-Student Union and class monitor. I have a deep affection for JNU.
+Before my time at TJU, I obtained my Bachelor's degree from Jiangnan University in 2021. Those were four vibrant and eventful years. I represented the school in provincial sports games, took on roles as a host, model, and voice actor. Together with my colleagues, I developed numerous Unity games and served as the President of the School-Student Union and class monitor. I have a deep affection for JNU.
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.test
