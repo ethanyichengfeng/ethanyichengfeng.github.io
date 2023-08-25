@@ -9,10 +9,10 @@ profile:
   image: fyc2.png
   image_circular: true # crops the image to make it circular
   address: >
-    <p>Room 36-776A</p>
-    <p>50 Vassar St. </p>
-    <p>(MIT building 36) </p>
-    <p>Cambridge, MA 02139</p>
+    <p>Room 115, Ho Sin-Hang Engineering Building,</p>
+    <p>The Chinese University of Hong Kong,</p>
+    <p>Shatin, Hong Kong SAR, China</p>
+
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
