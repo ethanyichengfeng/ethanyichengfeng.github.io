@@ -3,11 +3,11 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Junshen
+first_name: Yicheng
 middle_name: 
-last_name: Xu
-chinese_last_name: 1
-chinese_first_name: 2
+last_name: Feng, Ethan
+chinese_last_name: 冯
+chinese_first_name: 一诚
 email: junshen@mit.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -72,13 +72,13 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: daviddmc # your GitHub user name
+github_username: fwyc0573 # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: junshen-xu-30444b129 # your LinkedIn user name
+linkedin_username: #junshen-xu-30444b129 # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: qNk6tgcAAAAJ # your Google Scholar ID
+scholar_userid: #qNk6tgcAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
@@ -113,10 +113,10 @@ contact_note: >
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics: G-NYJ88YK0VS # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics: #G-NYJ88YK0VS # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
-google_site_verification: MARJu3erA7Z6jybcmR5fgSNRNtCNYMAYkk0jidGGr8A # your google-site-verification ID (Google Search Console)
+google_site_verification: #MARJu3erA7Z6jybcmR5fgSNRNtCNYMAYkk0jidGGr8A # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
@@ -271,8 +271,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: [Xu]
-  first_name: [Junshen]
+  last_name: [Feng]
+  first_name: [Yicheng]
 
   style: apa
   locale: en
@@ -323,7 +323,7 @@ external_links:
 # -----------------------------------------------------------------------------
 
 imagemagick:
-  enabled: false # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
+  enabled: true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
   widths:
     - 480
     - 800
