@@ -119,17 +119,17 @@ blockquote {
   width: 100%;
 
   .address {
-    margin-bottom: 5px;
-    margin-top: 5px;
+    margin-bottom: 2px;
+    margin-top: 2px;
     font-family: monospace;
     margin-left: 10px;
+    font-size: 8px; 
+    color: rgb(34, 77, 108); 
 
     p {
       display: inline-block;
       margin: 0;
       padding-left: 15px;
-      font-size: 14px; /* 调整文字字体大小 */
-      letter-spacing: 1px; /* 调整字符间距 */
     }
   }
 }
