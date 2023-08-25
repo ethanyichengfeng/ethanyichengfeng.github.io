@@ -37,13 +37,13 @@ I also did summer internships at Google and Meta, working on automated Ads biddi
 
 Prior to MIT, I received my Bachelor's degree from Tsinghua University in 2018. I also spent a summer as a research assistant at Stanford, where I was advised by Prof. [John Pauly](https://web.stanford.edu/~pauly/) and Prof. [Greg Zaharchuk](https://profiles.stanford.edu/greg-zaharchuk). -->
 
-Hello there! I'm Yicheng Feng, you can just call me Ethan. I am currently a two-and-a-half-year master's student at Tianjin University, specializing in Software Engineering. My focus is on cloud and edge computing, particularly resource management, scheduling, container optimization, and edge intelligence. I have a strong passion for cloud-native technology.
+Hello there! I'm Yicheng Feng, you can just call me Ethan. I am currently a two-and-a-half-year master's student at Tianjin University, China, specializing in Software Engineering. My focus is on cloud and edge computing, particularly resource management, scheduling, container optimization, and edge intelligence. I have a strong passion for cloud-native technology.
 
 At present, I am working as a Research Assistant at The Chinese University of Hong Kong under the guidance of Prof. [Henry Xu](https://henryhxu.github.io/). I've embarked on research in the realm of video systems, which presents an entirely new and exciting challenge!
 
 My master's advisor is Prof. [Xiaofei Wang](http://www.drxiaofei.wang/), and if all goes well, I will be graduating in January next year :). During this journey, I had the privilege of interning with the IaaS team at [PPIO](https://www.ppio.cn/) Edge Clouds Co., Ltd., China. This experience led to a series of fruitful industry-academic collaborative projects – truly exhilarating!
 
-Before my time at TJU, I obtained my Bachelor's degree from Jiangnan University in 2021. Those were four vibrant and eventful years. I represented the school in provincial sports games, took on roles as a host, model, and voice actor. Together with my colleagues, I developed numerous Unity games and served as the President of the School-Student Union and class monitor. I have a deep affection for JNU.
+Before my time at TJU, I obtained my Bachelor's degree from Jiangnan University, China, in 2021. Those were four vibrant and eventful years. I represented the school in provincial sports games, took on roles as a host, model, and voice actor. Together with my partners, I developed numerous Unity games and served as the President of the School-Student Union and class monitor. I have a deep affection for JNU.
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.test
