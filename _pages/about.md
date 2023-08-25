@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   address: >
     <p>"Sometimes it is the people who no one imagines anything of, who do the things no on can imagines."<p>
-    <p>--Alan Mathison Turing<p>
+    <p>-- Alan Mathison Turing<p>
 
 
 
