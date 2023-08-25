@@ -306,12 +306,11 @@ blockquote {
   margin-bottom: 5px;
   margin-top: 5px;
   font-family: monospace;
-  margin-left: 50px;
+  margin-left: 30px;
 }
 .profile .address p {
   display: inline-block;
   margin: 0;
-  padding-right: 30px;
 }
 
 .profile.float-right {
