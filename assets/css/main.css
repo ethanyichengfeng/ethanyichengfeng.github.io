@@ -309,8 +309,8 @@ blockquote {
 }
 .profile .address p {
   display: inline-block;
-  padding-right: 30px;
   margin: 0;
+  padding-right: 30px;
 }
 
 .profile.float-right {
