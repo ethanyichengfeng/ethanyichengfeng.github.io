@@ -5,7 +5,7 @@ permalink: /
 subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc. <p>The Chinese University of Hong Kong, Shatin Hong Kong SAR, China</p>
 
 profile:
-  align: right
+  align: left
   image: fyc.png
   image_circular: true # crops the image to make it circular
   address: >
